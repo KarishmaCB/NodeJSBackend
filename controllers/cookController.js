@@ -11,6 +11,7 @@ exports.list = function(req, res){
   });
 };
 
+
 // create actvity
 exports.create = function(req, res){
   var cookReq = req.body;
