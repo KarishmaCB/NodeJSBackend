@@ -1,0 +1,5 @@
+
+{
+   "dbUri": "mongodb://localhost:27017/restaurant",
+    "secret": "a secret phrase!!"
+}
